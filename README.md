@@ -6,4 +6,10 @@ A small app that just logs called numbers, even without reception :wink: , inspi
 
 https://www.reddit.com/r/AndroidQuestions/comments/a10dyv/i_met_a_cute_girl_in_the_subway_and_i_got_her/
 
+## Download
+
 [Download Here](https://github.com/d4rken/android-call-logger/releases/latest)
+
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/1439229/49258976-b57c4900-f437-11e8-87f7-1bb819439169.png" width="400">
